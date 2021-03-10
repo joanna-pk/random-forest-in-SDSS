@@ -1,20 +1,19 @@
 # Random Forest Tutorial with astronomical data 
 
 This tutorial contains two jupyter notebooks in the `notebooks` directory:
-- `random-forest-classification`
-- `random-forest-regression`
+- [`random-forest-classification`](https://nbviewer.jupyter.org/github/Dzoenapi/random-forest-in-SDSS/blob/main/notebooks/random-forest-classification.ipynb)
+- [`random-forest-regression`](https://nbviewer.jupyter.org/github/Dzoenapi/random-forest-in-SDSS/blob/main/notebooks/random-forest-regression.ipynb)
 
 Both of them demonstrate a simple application of the random forest
 algorithm to relevant problems in astronomy, using the 
 [scikit-learn](https://scikit-learn.org/stable/) machine learning
-package for python.
+package for python. The classification notebook describes all steps in more detail and contains links to appropriate scikit-learn manuals.
+
 <br>
 
 The `DATA` directory contains a single text file with 6 entries 
 for each of the $\sim 200\, 000$ central galaxies observed by
-the Sloan Digital Sky Survey (SDSS). The structure of the file is explained in detail in the classification notebook.
-
-<br>
+the Sloan Digital Sky Survey (SDSS). The structure of the file is explained in detail in the classification notebook. <br>
 
 The compiled data uses the following publically available
 catalogues:
@@ -25,6 +24,12 @@ catalogues:
 
 
 <br>
+
+Finally, the `scripts` directory contains a single script
+`support_tools`, where my favourite `configure_plots` function
+is defined.
+
+<br><br>
 
 I hope you enjoy the content of these two notebooks and, hopefully,
 find them useful. If you have any questions, comments or requests,
