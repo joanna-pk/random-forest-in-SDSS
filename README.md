@@ -29,7 +29,7 @@ Finally, the `scripts` directory contains a single script
 `support_tools`, where my favourite `configure_plots` function
 is defined.
 
-<br><br>
+<br>
 
 I hope you enjoy the content of these two notebooks and, hopefully,
 find them useful. If you have any questions, comments or requests,
