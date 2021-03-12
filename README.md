@@ -1,8 +1,8 @@
 # Random Forest Tutorial with astronomical data 
 
 This tutorial contains two jupyter notebooks in the `notebooks` directory:
-- [`random-forest-classification`](https://nbviewer.jupyter.org/github/Dzoenapi/random-forest-in-SDSS/blob/main/notebooks/random-forest-classification.ipynb)
-- [`random-forest-regression`](https://nbviewer.jupyter.org/github/Dzoenapi/random-forest-in-SDSS/blob/main/notebooks/random-forest-regression.ipynb)
+- [`random-forest-classification`](notebooks/random-forest-classification.ipynb)
+- [`random-forest-regression`](notebooks/random-forest-regression.ipynb)
 
 Both of them demonstrate a simple application of the random forest
 algorithm to relevant problems in astronomy, using the 
