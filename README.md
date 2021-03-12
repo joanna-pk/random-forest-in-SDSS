@@ -36,4 +36,5 @@ find them useful. If you have any questions, comments or requests,
 please feel free to reach out to me directly!
 
 <br>
-*I would like to thank my supervisor* [*Asa Bluck*](https://www.kicc.cam.ac.uk/directory/dr-asa-bluck) *for introducing me to the joy of machine learning and inspiring this tutorial*
+
+*I would like to thank my supervisor [Asa Bluck](https://www.kicc.cam.ac.uk/directory/dr-asa-bluck) for introducing me to the joy of machine learning and inspiring this tutorial.*
